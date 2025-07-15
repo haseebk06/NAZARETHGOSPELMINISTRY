@@ -862,9 +862,11 @@ ul,li{
 }
 .couses-section .image-column img{
 	position: relative;
-	width: 100%;
-	border-color: #f7f7f7;
-	border-radius: 10px 10px 0px 0px;
+    width: 100%;
+    height: 250px;
+    border-color: #f7f7f7;
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
 }
 .couses-section .image-box{
 	position: relative;
